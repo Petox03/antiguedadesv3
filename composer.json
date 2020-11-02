@@ -1,0 +1,17 @@
+{
+    "name": "alberto/antiguedadesv3",
+    "description": "Proyecto tienda de antiguedades version 3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alberto Sosa",
+            "email": "petox.somart@outlook.com"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^8.12",
+        "illuminate/events": "^8.12",
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.2"
+    }
+}
